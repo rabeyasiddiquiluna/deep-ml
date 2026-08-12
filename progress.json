@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:53:44.482Z",
+  "generated_at": "2026-10-04T00:53:46.241Z",
   "items": {
     "problem:372": {
       "kind": "problem",
@@ -195,6 +195,58 @@
       "last_pushed_at": "2026-08-11T19:28:58.227Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:263": {
+      "kind": "problem",
+      "id": "263",
+      "title": "Implement Binary Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/263",
+      "path": "problems/0263-implement-binary-cross-entropy-loss",
+      "first_solved_at": "2026-08-12T02:58:31.649Z",
+      "last_pushed_at": "2026-08-12T02:58:31.649Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:684": {
+      "kind": "problem",
+      "id": "684",
+      "title": "Adaptive Layer Normalization for Conditional Generation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/684",
+      "path": "problems/0684-adaptive-layer-normalization-for-conditional-generation",
+      "first_solved_at": "2026-08-12T05:09:00.177Z",
+      "last_pushed_at": "2026-08-12T05:09:00.177Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:126": {
+      "kind": "problem",
+      "id": "126",
+      "title": "Implement Group Normalization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/126",
+      "path": "problems/0126-implement-group-normalization",
+      "first_solved_at": "2026-08-12T21:25:00.168Z",
+      "last_pushed_at": "2026-08-12T21:25:00.168Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:148": {
+      "kind": "problem",
+      "id": "148",
+      "title": "Adamax Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/148",
+      "path": "problems/0148-adamax-optimizer",
+      "first_solved_at": "2026-08-12T21:33:24.592Z",
+      "last_pushed_at": "2026-08-12T21:33:24.592Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
