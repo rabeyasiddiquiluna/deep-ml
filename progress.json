@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:53:46.241Z",
+  "generated_at": "2026-10-04T00:53:47.849Z",
   "items": {
     "problem:372": {
       "kind": "problem",
@@ -247,6 +247,19 @@
       "last_pushed_at": "2026-08-12T21:33:24.592Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:503": {
+      "kind": "problem",
+      "id": "503",
+      "title": "Regularization via Information Bottleneck",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/503",
+      "path": "problems/0503-regularization-via-information-bottleneck",
+      "first_solved_at": "2026-08-13T01:49:25.183Z",
+      "last_pushed_at": "2026-08-13T01:49:25.183Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
